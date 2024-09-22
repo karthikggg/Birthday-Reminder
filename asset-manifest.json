@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karthikggg/Birthday-Reminder.git/static/css/main.f855e6bc.css",
+    "main.js": "/karthikggg/Birthday-Reminder.git/static/js/main.4dcd3bca.js",
+    "static/js/453.99ae4f7b.chunk.js": "/karthikggg/Birthday-Reminder.git/static/js/453.99ae4f7b.chunk.js",
+    "index.html": "/karthikggg/Birthday-Reminder.git/index.html",
+    "main.f855e6bc.css.map": "/karthikggg/Birthday-Reminder.git/static/css/main.f855e6bc.css.map",
+    "main.4dcd3bca.js.map": "/karthikggg/Birthday-Reminder.git/static/js/main.4dcd3bca.js.map",
+    "453.99ae4f7b.chunk.js.map": "/karthikggg/Birthday-Reminder.git/static/js/453.99ae4f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4dcd3bca.js"
+  ]
+}
