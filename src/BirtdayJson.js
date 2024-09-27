@@ -636,8 +636,8 @@ const birthday_dates_names = [
    },
    {
     "Employee Name": "Meenakshi Maragathavel",
-    "Birthday": "Sep 29th",
-    "Edited birthday dates": "Sep-29"
+    "Birthday": "Sep 28th",
+    "Edited birthday dates": "Sep-28"
    },
    {
     "Employee Name": "Iswarya Jayabalan",
